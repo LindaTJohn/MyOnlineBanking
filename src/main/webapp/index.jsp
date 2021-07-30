@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Greetings to all!</h2>
+<p>Welcome to the bank...</p>
 </body>
 </html>
